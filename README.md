@@ -15,7 +15,7 @@ Key features:
 ## 📦 How to Run
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/pacman-clone.git
+   git clone https://github.com/GenyveyavRaafat/pacman.git
 2. **Compile the program**
    ```bash
    g++ main.cpp -o pacman
